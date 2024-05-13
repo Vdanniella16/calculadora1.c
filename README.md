@@ -5,7 +5,7 @@ val: Variable temporal que almacena el valor de la tecla presionada.
 funcion: Variable que indica en qué fase se encuentra el programa: obteniendo el primer dígito, el segundo dígito o realizando una operación.
 
 Funciones:
-´´´main():´´´
+```main():```
 Función principal del código. Llama a las funciones de inicialización y luego entra en un bucle infinito donde se espera la presión de teclas y se realiza la operación de la calculadora.
 inicializar():
 
