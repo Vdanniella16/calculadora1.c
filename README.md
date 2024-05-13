@@ -1,8 +1,8 @@
 # calculadora1.c
 **Variables:** 
 ```primer_digito```, ```segundo_digito```, ```operacion:``` Almacenan los números y el resultado de la operación.
-val: Variable temporal que almacena el valor de la tecla presionada.
-funcion: Variable que indica en qué fase se encuentra el programa: obteniendo el primer dígito, el segundo dígito o realizando una operación.
+``val:``` Variable temporal que almacena el valor de la tecla presionada.
+```funcion:``` Variable que indica en qué fase se encuentra el programa: obteniendo el primer dígito, el segundo dígito o realizando una operación.
 
 Funciones:
 ```main():```
